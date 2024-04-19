@@ -5,7 +5,7 @@ A new Flutter project.
 # Output:
 ![WhatsApp Image 2024-04-19 at 12 17 06 PM](https://github.com/Raghav-995/phonepe_ui/assets/139675343/d01c1b49-88e1-4640-a51c-85f1959edf9c)
 
-![WhatsApp Image 2024-04-19 at 12 17 07 PM (1)](https://github.com/Raghav-995/phonepe_ui/assets/139675343/153edce6-1e90-4fb7-8222-9770bd3ab08b)
+
 
 ![WhatsApp Image 2024-04-19 at 12 17 07 PM](https://github.com/Raghav-995/phonepe_ui/assets/139675343/1959b869-3258-4e43-ae47-a903a824eaa2)
 
