@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:phonepe_ui/MyApp.dart';
 import 'package:phonepe_ui/widgets/MyMoneyPage.dart';
 import 'package:phonepe_ui/widgets/HistoryPage.dart';
-import 'package:phonepe_ui/pages/StorePage.dart';
+import 'package:phonepe_ui/pages/CreditScore.dart';
 import 'package:phonepe_ui/pages/AppsPage.dart';
 import 'package:phonepe_ui/widgets/Home.dart';
 import 'package:image_picker/image_picker.dart';
