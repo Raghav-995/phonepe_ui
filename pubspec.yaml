@@ -1,0 +1,24 @@
+name: phonepe_ui
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0"
+
+dependencies:
+  animated_splash_screen: ^1.3.0
+  cupertino_icons: ^1.0.6
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.7.0
+  get: ^4.6.6
+  image_picker: ^1.0.8
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
