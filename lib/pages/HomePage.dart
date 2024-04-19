@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:flutter/material.dart';
 import 'package:phonepe_ui/MyApp.dart';
-import 'package:phonepe_ui/widgets/MyMoneyPage.dart';
+import 'package:phonepe_ui/widgets/WealthPage.dart';
 import 'package:phonepe_ui/widgets/HistoryPage.dart';
 import 'package:phonepe_ui/pages/CreditScore.dart';
 import 'package:phonepe_ui/pages/AppsPage.dart';
@@ -47,7 +47,7 @@ class _HomePageState extends State<HomePage> {
 
       case 3:
         {
-          return MyMoneyPage();
+          return WealthPage();
         }
 
       case 4:
